@@ -1,0 +1,444 @@
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.json
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.exe
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.deps.json
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.runtimeconfig.json
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.pdb
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.AssemblyReference.cache
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfoInputs.cache
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfo.cs
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CoreCompileInputs.cache
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.Kiiosco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.build.Kiiosco.props
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Kiiosco.props
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Kiiosco.props
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\scopedcss\bundle\Kiiosco.styles.css
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CopyComplete
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\refint\Kiiosco.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.pdb
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.genruntimeconfig.cache
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Kiiosco\obj\Debug\net7.0\ref\Kiiosco.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.json
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.exe
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.deps.json
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.runtimeconfig.json
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.pdb
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.pdb
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.AssemblyReference.cache
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfoInputs.cache
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfo.cs
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CoreCompileInputs.cache
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.Kiiosco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.build.Kiiosco.props
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Kiiosco.props
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Kiiosco.props
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\scopedcss\bundle\Kiiosco.styles.css
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CopyComplete
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\refint\Kiiosco.dll
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.pdb
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.genruntimeconfig.cache
+C:\Users\Operador\Desktop\Kiiosco\Kiiosco\obj\Debug\net7.0\ref\Kiiosco.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.json
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.exe
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.deps.json
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.runtimeconfig.json
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.pdb
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.AssemblyReference.cache
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfoInputs.cache
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfo.cs
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CoreCompileInputs.cache
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.Kiiosco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.build.Kiiosco.props
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Kiiosco.props
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Kiiosco.props
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\scopedcss\bundle\Kiiosco.styles.css
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CopyComplete
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\refint\Kiiosco.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.pdb
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.genruntimeconfig.cache
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Kiiosco\obj\Debug\net7.0\ref\Kiiosco.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.json
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.exe
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.deps.json
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.runtimeconfig.json
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.pdb
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.AssemblyReference.cache
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfoInputs.cache
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfo.cs
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CoreCompileInputs.cache
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.Kiiosco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.build.Kiiosco.props
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Kiiosco.props
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Kiiosco.props
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\scopedcss\bundle\Kiiosco.styles.css
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CopyComplete
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\refint\Kiiosco.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.pdb
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.genruntimeconfig.cache
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Kiiosco\obj\Debug\net7.0\ref\Kiiosco.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.json
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.exe
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.deps.json
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.runtimeconfig.json
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.pdb
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.AssemblyReference.cache
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfoInputs.cache
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfo.cs
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CoreCompileInputs.cache
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.Kiiosco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.build.Kiiosco.props
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Kiiosco.props
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Kiiosco.props
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\scopedcss\bundle\Kiiosco.styles.css
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CopyComplete
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\refint\Kiiosco.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.pdb
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.genruntimeconfig.cache
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\ref\Kiiosco.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\appsettings.json
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.exe
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.deps.json
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.runtimeconfig.json
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Kiiosco.pdb
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\bin\Debug\net7.0\Data.pdb
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.AssemblyReference.cache
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfoInputs.cache
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.AssemblyInfo.cs
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CoreCompileInputs.cache
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.Kiiosco.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.build.Kiiosco.props
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Kiiosco.props
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Kiiosco.props
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\scopedcss\bundle\Kiiosco.styles.css
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.csproj.CopyComplete
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\refint\Kiiosco.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.pdb
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\Kiiosco.genruntimeconfig.cache
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Kiiosco\obj\Debug\net7.0\ref\Kiiosco.dll

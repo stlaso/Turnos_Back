@@ -1,0 +1,72 @@
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\bin\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Extrados curso SQL\back\hola mundo\Kiiosco\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\Operador\Desktop\Kiiosco\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\Operador\Desktop\Kiiosco\Data\bin\Debug\net7.0\Data.dll
+C:\Users\Operador\Desktop\Kiiosco\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\Data.dll
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\Operador\Desktop\Kiiosco\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\bin\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Nueva carpeta (2)\Kiiosco\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\bin\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\asdasdasdsa\Kiiosco\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\bin\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\stlaso\Desktop\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\bin\Debug\net7.0\Data.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\Operador\Desktop\kiosco\Entrega de kiosco\Kiiosco\Data\obj\Debug\net7.0\ref\Data.dll
